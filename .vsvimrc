@@ -1,0 +1,16 @@
+" 暂时取消搜索高亮快捷键
+nnoremap <silent> <Leader>l :<C-u>nohlsearch<CR><C-l>
+
+" 定义快速跳转
+nmap <Leader>o <C-]>
+" 定义快速跳转回退
+nmap <Leader>b <C-t>
+
+" 关闭当前分割窗口
+nmap <Leader>q :q<CR>
+" 保存当前窗口内容
+nmap <Leader>w :w<CR>
+
+nnoremap n nzzzv
+nnoremap N Nzzzv
+nnoremap J mzJ`z

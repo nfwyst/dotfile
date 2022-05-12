@@ -1,0 +1,14 @@
+anotherglitchinthematrix.monochrome-2.4.3/
+daylerees.rainglow-1.5.2/
+dbaeumer.vscode-eslint-2.2.2/
+dsznajder.es7-react-js-snippets-4.4.3/
+github.copilot-1.19.5865/
+golang.go-0.33.0/
+jock.svg-1.4.17/
+ms-vscode.js-debug-companion-1.0.18/
+ms-vscode.references-view-0.0.89/
+pkief.material-icon-theme-4.17.0/
+ryuta46.multi-command-1.5.1/
+styled-components.vscode-styled-components-1.7.4/
+vscodevim.vim-1.22.2/
+vspacecode.whichkey-0.11.3/
