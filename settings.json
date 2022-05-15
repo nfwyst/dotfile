@@ -61,8 +61,6 @@
     {"before": [ "<space>" ], "commands": [ "whichkey.show" ]}
   ],
   "vim.normalModeKeyBindingsNonRecursive": [
-    {"before": ["j"], "after": ["g", "j", "z", "z"]},
-    {"before": ["k"], "after": ["g", "k", "z", "z"]},
     {"before": ["H"], "after": ["^"]},
     {"before": ["L"], "after": ["$"]},
     {"before": ["<leader>", "f"], "commands": ["editor.action.formatDocument"]},
@@ -161,7 +159,7 @@
   "material-icon-theme.hidesExplorerArrows": true,
   "material-icon-theme.folders.color": "#42a5f5",
   "workbench.editor.wrapTabs": true,
-  "workbench.colorTheme": "Monochrome Dark Cool Gray",
+  "workbench.colorTheme": "Iceberg (rainglow)",
   "git.path": "/usr/local/bin/git",
   "explorer.openEditors.visible": 0,
   "workbench.editor.limit.value": 6,
@@ -237,4 +235,5 @@
       "diffEditor.removedTextBackground": "#ff000008",
     },
   },
+  "editor.cursorSurroundingLines": 23,
 }
